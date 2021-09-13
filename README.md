@@ -1,11 +1,11 @@
 # Seattle AirBnB Booking Analysis
 
 ## Table of Contents
-1. Installation
-2. Project Motivation
-3. File Descriptions
-4. Results
-5. Licensing, Authors, and Acknowledgements
+1. [Installation](https://github.com/Olek-ua/Seattle_Project/tree/testing#installations)
+2. [Project Motivation](https://github.com/Olek-ua/Seattle_Project/tree/testing#project-motivation)
+3. [File Descriptions](https://github.com/Olek-ua/Seattle_Project/tree/testing#file-descriptions)
+4. [Results](https://github.com/Olek-ua/Seattle_Project/tree/testing#results)
+5. [Licensing, Authors, and Acknowledgements](https://github.com/Olek-ua/Seattle_Project/tree/testing#Licensing,-Authors,-and-Acknowledgement)
 
 ## Installations
 You would need to install some of the standard data analysis & viz:
@@ -59,3 +59,5 @@ Here is the quick summary of what we've found in this project:
 - _With the most expensive neighbourhoods being Magnolia, Queen Anne and Downtown._
 
 - _The strongest indicators of booking prices are cleaning fee, number of bathrooms and beds followed by minimum number of nights, room type, number of reviews and ofcourse neighbourhood._
+
+## Licensing, Authors, and Acknowledgements
