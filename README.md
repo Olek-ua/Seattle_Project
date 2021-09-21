@@ -8,7 +8,7 @@
 5. [Licensing, Authors, and Acknowledgements](https://github.com/Olek-ua/Seattle_Project/tree/testing#Licensing,-Authors,-and-Acknowledgement)
 
 ## Installations
-You would need to install some of the standard data analysis & viz:
+You would need to install some of the standard data analysis & viz liabraries:
 
 - numpy
 - pandas
@@ -16,7 +16,7 @@ You would need to install some of the standard data analysis & viz:
 - seaborn
 - datetime
 
-and for data modelling we will use:
+and for data modelling we will use only:
 
 - scikit-learn
 
@@ -34,7 +34,7 @@ make sure to replace `<package name>` with actual package name, like:
 
 ## Project Motivation
 
-In this project I wanted to practice CRISP-DM by exploring [Seattle Airbnb Open Data](https://www.kaggle.com/airbnb/seattle) from Kaggle. Primarily I'm looking to answer three business questions:
+In this project I wanted to practice CRISP-DM by exploring [Seattle Airbnb Open Data](https://www.kaggle.com/airbnb/seattle) from Kaggle. Primarily I'm looking to answer the following three business questions:
 
 1. What is the busiest time of the year for Seattle?
 2. What are the most expensive neighbourhoods?
@@ -46,9 +46,9 @@ Also I wanted to compare how does Linear Regression performs against Random Fore
 
 - **Seattle AirBnB Bookings Analysis .ipynb** - is the main Jupyter file. You can get my results by simply running all lines in Jupyter notebooks. Beware the script may take some time (~20 min) to calculate the best performing model.
 
-- **calendar.csv, listings.csv, reviews.csv** - are the files obtained from Kaggle. I've used only  calendar.csv, listings.csv in my research.
+- **calendar.csv, listings.csv, reviews.csv** - are the files obtained from Kaggle. I've used only  calendar.csv and listings.csv in my research.
 
-- **draft files** folder - this contains several Jupyter files which are simply separate steps of what was later combined in  **Seattle AirBnB Bookings Analysis** file. Feel free to ignore this folder.
+- **draft files** folder - this contains several Jupyter files which are simply separate steps of what was later combined in  **Seattle AirBnB Bookings Analysis** file, feel free to ignore this folder.
 
 ## Results
 
@@ -61,3 +61,5 @@ Here is the quick summary of what we've found in this project:
 - _The strongest indicators of booking prices are cleaning fee, number of bathrooms and beds followed by minimum number of nights, room type, number of reviews and ofcourse neighbourhood._
 
 ## Licensing, Authors, and Acknowledgements
+
+The content of this repository is licensed under a [Creative Commons Attribution License](https://creativecommons.org/licenses/by/3.0/us/)
