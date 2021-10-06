@@ -52,6 +52,8 @@ Also I wanted to compare how does Linear Regression performs against Random Fore
 
 ## Results
 
+Please check my [Medium post - Use the power of Machine Learning to predict AirBnB prices in Seattle](https://medium.com/@oleksandr_49102/use-the-power-of-machine-learning-to-predict-airbnb-prices-in-seattle-bc9a781fd370) for full discussion of the project.
+
 Here is the quick summary of what we've found in this project:
 
  - _On completion of Seattle AirBnB booking analysis we could clearly find the busiest time of the year in January, July and August._
